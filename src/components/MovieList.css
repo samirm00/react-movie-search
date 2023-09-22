@@ -1,0 +1,14 @@
+.movie-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+.error {
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+}
